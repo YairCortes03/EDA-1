@@ -33,6 +33,7 @@ while(op!='2'):
 				reg=reg+','+str(prom)+'\n'
 			else:
 				print("opción no valida")
+				
 			registros.append(reg)
 		elif op=='2':
 			print("gracias por usar mi programa")
